@@ -145,7 +145,10 @@
             </p>
             <p>
                <hi>LONDON,</hi> Printed by IOHN NORTON, for IOHN PARTRIDGE: and are to be ſold at the ſigne of the <hi>Sunne</hi> in <hi>Pauls Church<g ref="char:EOLhyphen"/>yard,</hi> 1631.</p>
-            <figure/>
+            <p>
+               <pb facs="tcp:402:3" rendition="simple:additions"/>
+               <figure/>
+            </p>
          </div>
          <div type="dedication">
             <pb facs="tcp:402:3"/>
